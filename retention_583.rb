@@ -4,10 +4,10 @@ require 'marc'
 #
 # @example Scholars Trust
 #   Retention583.new(constants).marc.to_mrk
-#     #=> =583  1\|acommited to retain|c20190701|d20351231|fScholars Trust|5NcU
+#     #=> =583  1\|acommitted to retain|c20190701|d20351231|fScholars Trust|5NcU
 # @example TRLN Collaborative Print Retention
 #   Retention583.new(constants).marc.to_mrk
-#     #=> =583  1\|acommited to retain|c20190701|dretention period not specified|fTRLN Collaborative Print Retention|5NcU
+#     #=> =583  1\|acommitted to retain|c20190701|dretention period not specified|fTRLN Collaborative Print Retention|5NcU
 class Retention583
   attr_accessor :action, :action_date, :action_interval, :programs, :institution
 

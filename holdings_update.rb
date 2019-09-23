@@ -21,7 +21,7 @@ date_of_action = 'YYYYMMDD'
 # scholars.programs = 'Scholars Trust'
 # scholars.action_interval = '20351231'
 #
-# scholars.action = 'commited to retain'
+# scholars.action = 'committed to retain'
 # scholars.action_date = date_of_action
 # scholars.institution = 'NcU'
 #
@@ -29,7 +29,7 @@ date_of_action = 'YYYYMMDD'
 # trln.programs = 'TRLN Collaborative Print Retention'
 # trln.action_interval = 'retention period not specified'
 #
-# trln.action = 'commited to retain'
+# trln.action = 'committed to retain'
 # trln.action_date = date_of_action
 # trln.institution = 'NcU'
 
